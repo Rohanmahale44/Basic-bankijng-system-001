@@ -12,5 +12,6 @@ dummy data used for educational purposes.
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
 # website link
-https://rohanmahale44.github.io/Basic-bankijng-system-001/
+
+https://rohanmahale44.github.io/Basic-banking-system-001-/
 
